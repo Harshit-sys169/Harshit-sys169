@@ -1,4 +1,4 @@
-# Harshit | Data Science & ML Engineer
+# Harshit | Exploring Data Science & ML
 
 [![GitHub followers](https://img.shields.io/github/followers/Harshit-sys169?style=social)](https://github.com/Harshit-sys169)
 [![Portfolio Projects](https://img.shields.io/badge/Portfolio-7%20Projects-brightgreen)](https://github.com/Harshit-sys169/portfolio-index)
