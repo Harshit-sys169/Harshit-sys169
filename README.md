@@ -7,9 +7,9 @@ Welcome to my data science portfolio. I build production-grade ML systems with f
 
 ---
 
-## 🎯 Featured Projects
+##  Featured Projects
 
-### 🌍 [Nepal Earthquake Damage Prediction](https://github.com/Harshit-sys169/earthquake-damage-prediction)
+###  [Nepal Earthquake Damage Prediction](https://github.com/Harshit-sys169/earthquake-damage-prediction)
 **Advanced ML Methodology Showcase**
 
 - ✓ Stratified train/val/test splitting for imbalanced data
@@ -22,7 +22,7 @@ Welcome to my data science portfolio. I build production-grade ML systems with f
 
 ---
 
-### 💼 [Poland Bankruptcy Prediction](https://github.com/Harshit-sys169/bankruptcy-prediction-poland)
+###  [Poland Bankruptcy Prediction](https://github.com/Harshit-sys169/bankruptcy-prediction-poland)
 **Advanced Techniques: Ensemble Methods, SHAP, Cost-Sensitive Learning**
 
 - ✓ Ensemble comparison (Random Forest, Gradient Boosting, AdaBoost)
@@ -35,7 +35,7 @@ Welcome to my data science portfolio. I build production-grade ML systems with f
 
 ---
 
-### 🏠 [Buenos Aires Real Estate Analysis](https://github.com/Harshit-sys169/buenos-aires-real-estate)
+###  [Buenos Aires Real Estate Analysis](https://github.com/Harshit-sys169/buenos-aires-real-estate)
 **Progressive Learning: Regularization, Feature Selection, Model Stacking**
 
 - ✓ Task 1-3: Foundational regression techniques
@@ -48,7 +48,7 @@ Welcome to my data science portfolio. I build production-grade ML systems with f
 
 ---
 
-## 📚 All Projects
+##  All Projects
 
 | Project | Focus | Key Techniques |
 |---------|-------|----------------|
@@ -64,7 +64,7 @@ Welcome to my data science portfolio. I build production-grade ML systems with f
 
 ---
 
-## 💡 Core Competencies
+##  Core Competencies
 
 **Machine Learning & Statistics**
 - Supervised Learning: Regression (Linear, Ridge, Lasso), Classification (Logistic, Trees, SVM)
@@ -92,7 +92,7 @@ Welcome to my data science portfolio. I build production-grade ML systems with f
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 **Languages & Core**
 - Python, pandas, numpy, scikit-learn
@@ -113,7 +113,7 @@ Welcome to my data science portfolio. I build production-grade ML systems with f
 
 ---
 
-## 📈 Portfolio Highlights
+##  Portfolio Highlights
 
 - **7 Complete Projects** across finance, real estate, and earthquake science
 - **Advanced Techniques:** SHAP, ensemble stacking, cost-sensitive learning, stratified cross-validation
@@ -123,7 +123,7 @@ Welcome to my data science portfolio. I build production-grade ML systems with f
 
 ---
 
-## 🎓 Philosophy
+##  Philosophy
 
 I believe that **methodology > algorithm choice**, **business reality > statistical accuracy**, and **interpretability** drives adoption. Each project demonstrates:
 
@@ -134,7 +134,7 @@ I believe that **methodology > algorithm choice**, **business reality > statisti
 
 ---
 
-## 📫 Connect
+##  Connect
 
 - **GitHub:** [@Harshit-sys169](https://github.com/Harshit-sys169)
 - **Portfolio Index:** [View All Projects](https://github.com/Harshit-sys169/portfolio-index)
